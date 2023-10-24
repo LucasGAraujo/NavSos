@@ -243,8 +243,6 @@ li:hover {
 }
 @media screen and (max-width: 768px) {
     .modal-content {
-        
-        
         width: 100%;
         
     }
@@ -278,6 +276,7 @@ li:hover {
         height: 30vh;
     }
     .contato {
+        margin: 0 auto;
         flex-direction: column;
         height: auto;
     }
