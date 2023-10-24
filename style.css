@@ -242,9 +242,9 @@ li:hover {
     margin-top: 10px;
 }
 @media screen and (max-width: 768px) {
-   h4 {
-   color: black;
-   }
+  .main h4 {
+  color:#fff;
+  }
     .modal-content {
         width: 100%;
         
