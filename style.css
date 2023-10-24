@@ -242,6 +242,12 @@ li:hover {
     margin-top: 10px;
 }
 @media screen and (max-width: 768px) {
+    .modal-content {
+        
+        
+        width: 100%;
+        
+    }
     .Header {
         width: 100%;
         flex-direction: column;
